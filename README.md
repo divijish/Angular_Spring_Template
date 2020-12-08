@@ -1,6 +1,6 @@
 # Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3 and Spring Boot version 2.4.0
 
 ## Development server
 
