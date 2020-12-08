@@ -13,5 +13,5 @@ The following steps shall be taken to serve files for github pages:
   <b>git pull origin gh-pages</b>
 4. Push new changes:
   <b>git push -f origin gh-pages:gh-pages</b>
-5. Make changes in <i>index.html</i>'s <i><base href="Repository Name"></i>.
+5. Make changes in <i>index.html</i>'s <i><base href=\"Repository Name\"></i>.
 5. Change the Github pages repo in Repository Settings.
